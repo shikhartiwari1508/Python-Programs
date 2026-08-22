@@ -1,0 +1,20 @@
+[
+    {
+        "Roll": "100",
+        "Name": "Aakash Yadav",
+        "Course": "BSc(Math)",
+        "Marks": "89"
+    },
+    {
+        "Roll": "101",
+        "Name": "Shriram",
+        "Course": "BA",
+        "Marks": "85"
+    },
+    {
+        "Roll": "102",
+        "Name": "Shivam Yadav",
+        "Course": "BCA(DS)",
+        "Marks": "95"
+    }
+]
