@@ -11,11 +11,11 @@ name = "Shikhar"
 for i in name:
     print (name)   ''' 
 
-'''color = ["Red", "Green" , "Yellow" , "Blue"]
+color = ["Red", "Green" , "Yellow" , "Blue" , "Purple"]
 for color in color:
     print(color)    
     for i in color :
-        print(i)'''
+        print(i)
 
 '''for k in range (5):
     print(k)
