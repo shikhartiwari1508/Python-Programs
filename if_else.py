@@ -8,7 +8,7 @@ else:
 
 
 
-'''day = int(input("Enter the day [1 to 7] ="))
+day = int(input("Enter the day [1 to 7] ="))
 if day == 1:
     print("Monday")
 elif day == 2:
@@ -24,7 +24,7 @@ elif day == 6:
 elif day == 7:
     print("Sunday")
 else:
-    print("Invalid number")'''               
+    print("\nInvalid number🥲\n Please Enter the number between 1 to 7...\n Thank You...🙏\n")               
 
 
 
