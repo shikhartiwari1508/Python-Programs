@@ -1,21 +1,21 @@
-'''a=int(input("Enter the first number="))
-b=int(input("Enter the second number="))
+'''a = int(input("Enter the first number="))
+b = int(input("Enter the second number="))
 
 
 print("Addition")
-Addition=print( a+b)
+Addition = print( a+b)
 
 
 print("Subtraction")
-Subtraction=print( a-b)
+Subtraction = print( a-b)
 
 
 print("Multiplication")
-Multiplication=print( a*b)
+Multiplication = print( a*b)
 
 
 print("Division")
-Division=print( a/b)'''
+Division = print( a/b)'''
 
 
 #using function
