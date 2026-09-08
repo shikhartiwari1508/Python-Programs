@@ -46,14 +46,14 @@ else:
 
 #Assignment operator
 
-a=10
-b=20
-a=a+5
-b=b-10
-c=a*5
-d=b/2
-e=a**5
-f=b//2
+a = 10
+b = 20
+a = a+5
+b = b-10
+c = a*5
+d = b/2
+e = a**5
+f = b//2
 print (a)      
 print (b)      
 print (c)      
