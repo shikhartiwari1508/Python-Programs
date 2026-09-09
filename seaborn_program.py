@@ -10,7 +10,7 @@ print(df.head())'''
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-df=pd.DataFrame({
+df = pd.DataFrame({
     "Name":["Shikhar","Shivam","Saurabh","Shivansh","Suryansh","Shivesh"],
     "Marks":[80, 58, 68, 95, 74, 55],
     #"Address":["Pratapgarh","Ballia","Kunda","Prayagraj","Allahabad","Rewa"]
