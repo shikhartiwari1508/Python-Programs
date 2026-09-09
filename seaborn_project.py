@@ -1,7 +1,7 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-df=pd.DataFrame({
+df = pd.DataFrame({
     "total_bill":[80, 58, 68, 95, 74, 55],
     "tip":[5, 8, 6, 9, 4, 3],
     "Sex":["male","female","male","female","male","female"],
