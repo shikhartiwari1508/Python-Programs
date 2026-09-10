@@ -28,7 +28,7 @@ print(f.readlines())'''
 #if file was not exist then we can use "try-except" and print messege.......
 
 try:
-   f=open("C:\\Users\\Dell\\OneDrive\\Desktop\\shikhar\\A.txt","r")
+   f = open("C:\\Users\\Dell\\OneDrive\\Desktop\\shikhar\\A.txt","r")
    print(f.readlines())
 except:
    print("File not avalible... please create first...")   
