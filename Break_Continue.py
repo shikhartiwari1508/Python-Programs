@@ -1,13 +1,13 @@
 '''for i in range (12):
     print(i+1)
-    if (i==10):
+    if (i == 10):
        break 
 print(i)'''
 
 
 '''for i in range (13):
     print(i+1)
-    if (i==10):
+    if (i == 10):
        continue 
 print(i)'''
 
