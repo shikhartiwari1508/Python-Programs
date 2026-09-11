@@ -1,7 +1,7 @@
 a = int(input("Enter the first number :"))
 b = int(input("Enter the Second number :"))
 
-print("Select operation : ")
+print("Select operation :- ")
 print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
