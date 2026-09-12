@@ -1,25 +1,25 @@
 #Function creation:
 
 def greet():
-    print("Hello students....")
+    print("Hello Students....")
 greet()    
 
 #with parameter:
 
 def add(a,b):
-    print(a+b)
+    print(a + b)
 add(10,20)    
 
 #Return statement:
 
 def square(n):
-    return n*n
+    return n * n
 result = square(5)
 print(result)
 
 #Lambda function:
 
-squrae = lambda x: x*x
+squrae = lambda x : x * x
 print(square(4))
 
 #Recursive function:
@@ -27,5 +27,5 @@ print(square(4))
 def factorial(n):
     if n == 1:
         return 1
-    return n* factorial(n-1)
+    return n * factorial(n - 1)
 print(factorial(5))
