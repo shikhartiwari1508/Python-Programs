@@ -31,4 +31,4 @@ try:
    f = open("C:\\Users\\Dell\\OneDrive\\Desktop\\shikhar\\A.txt","r")
    print(f.readlines())
 except:
-   print("File not avalible... please create first...")   
+   print("File not avalible... \nPlease create first...")   
