@@ -3,7 +3,7 @@
 class Student:
     def show(self):
         print(" This is a student class...")
-s=Student()
+s = Student()
 s.show()        
 
 
@@ -14,7 +14,7 @@ class Student:
         self.name = name
     def display(self):
         print("SHIKHAR")
-s=Student()        
+s = Student()        
 s.display()        
 
 #Inheritence:
@@ -24,5 +24,5 @@ class Father:
         print("Fathers house")
 class Son(Father):
     pass
-s=Son()
+s = Son()
 s.house() 
