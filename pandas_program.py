@@ -21,6 +21,6 @@ print(df)
 
 import pandas as pd
 
-df = pd.DataFrame({"Marks":[20,19,18,17]})
+df = pd.DataFrame({"Marks":[20,19,18,17,25]})
 print("Average = ",df["Marks"].mean())
 
