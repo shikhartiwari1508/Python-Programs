@@ -12,25 +12,25 @@ print(5**3)'''
 
 # AND
 a = "apple"
-b ="orange"
-if(a==b):
+b = "orange"
+if(a == b):
     print("Logical AND operator")
 else:
     print("not a logical AND operator")    
 
 # OR
-a="apple"
-b="apple"
-if(a==b):
+a = "apple"
+b = "apple"
+if(a == b):
     print("Logical OR operator")
 else:
     print("not a logical OR operator")    
 
 # NOT 
 
-a="apple"
-b="pineapple"
-if(a!=b):
+a = "apple"
+b = "pineapple"
+if(a != b):
     print("Logical NOT operator")
 else:
     print("not a logical NOT operator")    '''
