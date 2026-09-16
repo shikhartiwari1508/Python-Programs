@@ -7,6 +7,6 @@ print(inverse)'''
 
 
 from scipy import stats
-data = [10,20,30,40,50]
+data = [10,20,30,40,50,60,70,80,90,100]
 print("Mean :",stats.tmean(data))
 print("Varience :",stats.tvar(data))
