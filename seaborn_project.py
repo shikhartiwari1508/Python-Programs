@@ -11,7 +11,7 @@ df = pd.DataFrame({
     "Size":[2,1,3,1,2,1],
 })
 sns.set_style("whitegrid")
-sns.barplot(data=df,x="Day",y="total_bill",hue="Sex")
+sns.barplot(data = df, x = "Day", y = "total_bill", hue = "Sex")
 plt.title("Average bill Day by Day")
 plt.xlabel("Day")
 plt.ylabel("Average Bill")
