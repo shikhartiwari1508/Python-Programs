@@ -16,5 +16,11 @@
         "Name": "Shivam Yadav",
         "Course": "BCA(DS)",
         "Marks": "95"
+    },
+    {
+        "Roll": "104",
+        "Name": "Aditya Mishra",
+        "Course": "BSc (Math)",
+        "Marks": "88"
     }
 ]
