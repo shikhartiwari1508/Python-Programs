@@ -14,27 +14,27 @@ print(greet[1:5])
 
 
 #compare two string
-str1="hello world"
-str2="i love python"
-str3="hello world"
-print(str1==str2)
-print(str1==str3)
+str1 = "hello world"
+str2 = "i love python"
+str3 = "hello world"
+print(str1 == str2)
+print(str1 == str3)
 
 
 #join two or more string
 name="shikhar"
-cost="tiwari"
-fullname= name+cost
+cost ="tiwari"
+fullname = name+cost
 print(fullname)
 
 
 #iterate through a python string
-greet="hello"
+greet = "hello"
 for letter in greet:
     print(letter)
 
 #string length
-var="hello"
+var = "hello"
 print(len(var))
 
 
