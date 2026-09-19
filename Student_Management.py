@@ -105,7 +105,7 @@ while True:
     print("5. Delete Student")
     print("6. Exit")
 
-    choice = input("Enter Your Choice: ")
+    choice = input("Enter Your Choice:- ")
 
     if choice == "1":
         add_student()
