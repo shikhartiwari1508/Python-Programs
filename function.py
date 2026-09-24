@@ -13,7 +13,12 @@ add(10,20)
 #Subtraction
 def sub(a,b):
     print(a - b)
-sub(20,10)    
+sub(20,10)  
+
+#Multiplication
+def mult(a,b):
+    print(a * b)
+mult(20,10)  
 
 #Return statement:
 
