@@ -5,10 +5,15 @@ def greet():
 greet()    
 
 #with parameter:
-
+#Addition
 def add(a,b):
     print(a + b)
 add(10,20)    
+
+#Subtraction
+def sub(a,b):
+    print(a - b)
+sub(20,10)    
 
 #Return statement:
 
