@@ -18,7 +18,12 @@ sub(20,10)
 #Multiplication
 def mult(a,b):
     print(a * b)
-mult(20,10)  
+mult(20,10) 
+
+#Division
+def div(a,b):
+    print(a / b)
+div(20,10)  
 
 #Return statement:
 
