@@ -7,6 +7,26 @@ print(list[1])
 
 
 
+#Largest Element in a list
+
+num = [10,24,85,69,36]
+largest = num[0]
+for n in num :
+    if n > largest:
+        largest = n
+print("Largest Number :", largest)
+
+#Smallest Element in a list
+
+num = [10,24,85,69,36]
+smallest = num[0]
+for n in num :
+    if n < smallest :
+        smallest = n
+print("Smallest Number :", smallest)
+
+
+
 #Tuple
 
 print("Tuple :")
