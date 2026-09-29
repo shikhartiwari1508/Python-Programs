@@ -85,6 +85,12 @@ if num in numbers :
 else:
     print("Element is not present in a list")    
 
+
+# Find Length of a List
+
+list = [10,20,30,40,50]
+length = len(list)
+print("Length of list = ", length)
 #Tuple
 
 print("Tuple :")
