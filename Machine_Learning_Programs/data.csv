@@ -1,6 +1,6 @@
-Name,Age,Marks,Course
-Rahul,20,78,BCA
-Aman,21,85,BCA
-Priya,20,92,BCA
-Neha,22,74,MCA
-Rohit,21,88,BCA
+Name,Age,StudyHours,Marks,Course,Pass
+Rahul,20,4,78,BCA,1
+Aman,21,6,85,BCA,1
+Priya,20,8,92,BCA,1
+Neha,22,3,45,MCA,0
+Rohit,21,7,88,BCA,1
