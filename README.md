@@ -54,7 +54,7 @@ Whether you are a beginner learning Python or a student exploring data science a
 
 This section focuses on developing a strong foundation in Python programming.
 
-**Topics include:**
+**Topics include:-**
 
 - Variables, data types, and operators
 - Conditional statements and decision-making
