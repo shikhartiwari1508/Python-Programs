@@ -317,7 +317,7 @@ Through this repository, I aim to:
 
 ## 🚀 Future Improvements
 
-Planned areas for further development include:
+Planned areas for further development include:-
 
 - Organizing scripts into clearly named topic-based folders.
 - Adding sample outputs and explanations for individual programs.
