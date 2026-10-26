@@ -342,7 +342,7 @@ Please keep contributions readable, well-organized, and easy to understand.
 
 ## 👨‍💻 Author
 
-**Shikhar Tiwari**
+**Mr. Shikhar Tiwari**
 
 An aspiring programmer exploring Python development, data science, automation, and machine learning through hands-on projects.
 
